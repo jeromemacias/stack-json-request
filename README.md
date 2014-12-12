@@ -7,7 +7,7 @@ Installation
 ------------
 
 ```bash
-composer require jeromemacias/jeromemacias/stack-json-request ~1.0@dev
+composer require jeromemacias/stack-json-request ~1.0@dev
 ```
 
 Usage
